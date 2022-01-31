@@ -13,4 +13,5 @@ setup(
     packages=["notifications_android_tv"],
     keywords = ["android tv", "fire tv", "notifications"],
     zip_safe=False,
+    python_requires=">=3.8",
 )
